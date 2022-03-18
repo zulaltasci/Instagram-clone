@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400&display=swap');
+* {
+    font-weight: 500;
+}
+
+.logo-margin {
+    margin-left: 192px;
+}
+
+.profile-size {
+    font-size: 12px;
+    color: black;
+}
+
+.card-font {
+    font-size: 80%;
+}
+
+.right-under {
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 400;
+    color: #007BFF;
+}
+
+.son-font {
+    font-size: 12px !important;
+    color: #D3D3D3;
+}
